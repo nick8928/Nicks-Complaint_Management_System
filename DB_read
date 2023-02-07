@@ -1,0 +1,5 @@
+CREATE TABLE users
+  COLUMN1 - id(PRIMARY KEY)(AUTO INCR)
+  COLUMN2 - email(VARCHAR)
+  COLUMN3 - complaint(TEXTT)
+  COLUMN4 - status(VARCHAR)
